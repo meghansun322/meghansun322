@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meghansun322
 - 👀 I’m interested in Software Engineering and creating products that provides a social good!
-- 🌱 I’m currently learning React.js and Node.js
+- 🌱 I’m currently learning React.js and Swift
 - 📫 You can reach me via 
     LinkedIn: https://www.linkedin.com/in/meghansun/
     or Email: mlsun@ad.unc.edu
