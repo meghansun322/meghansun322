@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift/SwiftUI
 - 📫 You can reach me via 
     LinkedIn: https://www.linkedin.com/in/meghansun/
-    or Email: mlsun@ad.unc.edu
+    or Email: meghansun322@gmail.com
 
 <!---
 meghansun322/meghansun322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
