@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @meghansun322
-- 👀 I’m interested in Software Engineering and creating products that provides a social good!
-- 🌱 I’m currently learning Swift/SwiftUI
+- 👀 I'm a Software Engineer @ Microsoft
 - 📫 You can reach me via 
     LinkedIn: https://www.linkedin.com/in/meghansun/
     or Email: meghansun322@gmail.com
